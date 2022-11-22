@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="walkingName">walking</string>
+    <string name="walkingSd">Any exercise program should include cardiovascular exercise</string>
+    <string name="walkingLd">Any exercise program should include cardiovascular exercise, which strengthens the heart and burns calories. And walking is something you can do anywhere, anytime, with no equipment other than a good pair of shoes. It\'s not just for beginners, either: Even the very fit can get a good workout from walking. \"Doing a brisk walk can burn up to 500 calories per hour,\" says Robert Gotlin, DO, director of orthopaedic and sports rehabilitation at Beth Israel Medical Center in New York. Since it takes 3,500 calories to lose a pound, you could expect to lose a pound for every seven hours you walk, if you did nothing else. Don\'t go from the sofa to walking an hour day, though. Richard Cotton, a spokesman for the American Council on Exercise, says beginners should start by walking five to -10 minutes at a time, gradually moving up to at least 30 minutes per session.  \"Don\'t add more than five minutes at a time,\" he says. Another tip: It\'s better to lengthen your walks before boosting your speed or incline.</string>
+    <string name="intInterval_training">Interval training</string>
+    <string name="Abdominal_Crunches">Abdominal Crunches</string>
+    <string name="adnominalLd">Who doesn\'t want firm, flat abs? Experts say that when done correctly, the familiar crunch (along with its variations) is a good choice to target them.  For a standard crunch, says Cotton, begin lying on your back with feet flat on the floor and fingertips supporting your head. Press your low back down and begin the exercise by contracting abdominals and peeling first your head (tucking your chin slightly), then your neck, shoulders, and upper back off the floor.  Be careful not to pull your neck forward by sticking the chin out; don\'t hold your breath, and keep elbows out of your line of vision to keep chest and shoulders open.  For his part, Petersen teaches his clients to do crunches with their feet off the floor and knees bent. He says that with feet kept on the floor, many people tend to arch the back and engage the hip flexors.  \"Crunches can be excellent, but if they\'re not done correctly, with the back arching, they can actually weaken the abdominals,\" Petersen says.  To work the obliques (the muscles on the sides of your waist), says Cotton, take the standard crunch and rotate the spine toward one side as you curl off the floor.  \"Twist before you come up,\" he says. \"It\'s really important that the twist comes first because then it\'s the obliques that are actually getting you up.\"  But keep in mind that you won\'t get a flat stomach with crunches alone, says Cotton. Burning belly fat requires the well-known formula: using up more calories than you take in.</string>
+    <string name="anominalSd">Who doesn\'t want firm, flat abs? Experts say that when done correctly</string>
+    <string name="add2plan">Add to my plan</string>
+    <string name="details">Enter Details</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="trainingTime">How much time do  you want to train?</string>
+    <string name="addOne">Add one</string>
+    <string name="noPlansText">there\'s no Plan yet</string>
+    <string name="monday">Monday</string>
+    <string name="edit">Edit</string>
+    <string name="wed">Wednesday</string>
+    <string name="tue">Tuesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="time">Time: </string>
+    <string name="addMore">Add more plans</string>
+
+
+    <array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </array>
+    <string name="pushUpsImageUrl">https://media2.giphy.com/media/5t9IcXiBCyw60XPpGu/giphy.gif</string>
+    <string name="IntervalTrainingURL">https://imagesvc.meredithcorp.io/v3/mm/gif?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F14%2F2015%2F01%2F01%2F122214-kim-workout-embed-3-480.gif</string>
+    <string name="lugesImageURl">https://thumbs.gfycat.com/AbleFondChick-max-1mb.gif</string>
+    <string name="squatImageUrl">https://thumbs.gfycat.com/BlueWetHarvestmouse-max-1mb.gif</string>
+    <string name="walkingUrl">https://miro.medium.com/max/1800/1*4HJQafpDb16vgkyNnmxEhA.gif</string>
+    <string name="abominalURL">https://i.pinimg.com/originals/b8/84/e0/b884e0c6494f2b3fcc1f4ac9978c3cb1.gif</string>
+</resources>
